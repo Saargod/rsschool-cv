@@ -1,10 +1,21 @@
+=======
 # Oleksandr Kravchenko
+=======
+![my foto](\my_foto.jpg "my real foto")
+
+
 ## email
 alexkravchenko1979@gmail.com
+
+
 ## phone
 16132005362
+
+
 ## Information
 My goal is to return to IT, as I worked as a performance test engineer three years ago.
+
+
 ## Skills
 * Java Core
 * Oracle SQL
@@ -16,8 +27,37 @@ My goal is to return to IT, as I worked as a performance test engineer three yea
 * AWR report
 * LoadRunner
 * PostgreSQL
+* InfluxDB
+
 
 Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+
+
+## Experience
++ Development of load testing methodology.
++ Creation of load generators for special tasks Java.
++ Data generation for the test (DataBase or Files).
++ Setting up monitoring Grafana.
++ Creating load testing automation Jenkins, Java, Bash .
++ Load test reports Word.
+*I don't have any code, because I worked in close bank system.*
+
+
+## Code Example  
+'''
+    public class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("Hello, World!");
+        }
+    }
+'''
+
+
+## education
+- Kharkiv National University of Radio Electronics
+- School Lemon
+- Телесенс Академия
+
+
+## Level of English language
+My CELPIP score is 6. I am currently living in Canada.
