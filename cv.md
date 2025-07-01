@@ -30,9 +30,6 @@ My goal is to return to IT, as I worked as a performance test engineer three yea
 * InfluxDB
 
 
-Примеры кода
-
-
 ## Experience
 + Development of load testing methodology.
 + Creation of load generators for special tasks Java.
