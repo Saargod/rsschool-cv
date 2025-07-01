@@ -1,7 +1,7 @@
 =======
 # Oleksandr Kravchenko
 =======
-![my foto](\my_foto.jpg "my real foto")
+![my foto](my_foto.jpg "my real foto")
 
 
 ## email
@@ -41,16 +41,16 @@ My goal is to return to IT, as I worked as a performance test engineer three yea
 
 
 ## Code Example  
-'''
+```
     public class HelloWorld {
         public static void main(String[] args) {
             System.out.println("Hello, World!");
         }
     }
-'''
+```
 
 
-## education
+## Education
 - Kharkiv National University of Radio Electronics
 - School Lemon
 - Телесенс Академия
