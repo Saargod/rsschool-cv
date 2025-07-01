@@ -1,7 +1,7 @@
 =======
 # Oleksandr Kravchenko
 =======
-![my foto](my_foto.jpg "my real foto")
+![my foto](my_foto.jpg)
 
 
 ## email
