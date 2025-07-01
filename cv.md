@@ -4,9 +4,17 @@ alexkravchenko1979@gmail.com
 ## phone
 16132005362
 ## Information
-My porchers is backing to IT, because I worked in IT as Performance test engiener thee years ago.
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+My goal is to return to IT, as I worked as a performance test engineer three years ago.
+## Skills
+* Java Core
+* SQL
+* Fiddler 4
+* Grafana
+* Performance Center
+* Jmeter
+* Analysis
+* AWR report
+
 Примеры кода
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 Образование (включая пройденные курсы и тренинги)
