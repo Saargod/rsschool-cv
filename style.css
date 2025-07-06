@@ -1,13 +1,21 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(137, 171, 182);
 }
 
 h1 {
-  color: white;
+  color: rgba(1, 0, 66);
   text-align: center;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+.navigation-header {
+  list-style: none;
+}
+
+li {
+  padding: 20px;
 }
