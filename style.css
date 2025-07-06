@@ -7,15 +7,13 @@ h1 {
   text-align: center;
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
 .navigation-header {
   list-style: none;
+  display: flex;
+  flex-direction: row;
 }
 
 li {
   padding: 20px;
 }
+
